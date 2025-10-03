@@ -6,5 +6,6 @@ Collects Intune/Autopilot logs, event logs, and diagnostics into a single ZIP fo
 - Windows PowerShell (Run **as Administrator** recommended)
 
 ## Usage
+```powershell
 Start-Process powershell -Verb RunAs -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File 
 .\scripts\Collect-IntuneESPLogs.ps1'
