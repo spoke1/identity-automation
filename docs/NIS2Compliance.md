@@ -9,7 +9,7 @@ Always consult your compliance team and auditors for full assessments.
 
 ---
 
-## 🔍 What it checks
+## What it checks
 - MFA enforced for administrators  
 - Legacy authentication blocked  
 - Guest account restrictions  
@@ -18,7 +18,7 @@ Always consult your compliance team and auditors for full assessments.
 
 ---
 
-## 📦 Requirements
+## Requirements
 - Microsoft Graph PowerShell SDK  
 - Permissions:  
   - `Directory.Read.All`  
