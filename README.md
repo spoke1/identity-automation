@@ -4,10 +4,11 @@ Automation scripts and tools for Microsoft Entra ID, Intune, and Zero Trust.
 Welcome to **Identity Automation** – a curated collection of scripts and tools for Microsoft Cloud Services.  
 This repository is focused on **practical automation** to make identity and access management easier, more secure and audit-ready.  
 
-### Documentation
+## Documentation
 - [Global Admin Audit](docs/GlobalAdmins.md)
 - [Conditional Access Export](docs/ConditionalAccessExport.md)
 - [Intune ESP / Autopilot Log Collector](docs/IntuneESPCollector.md)
+- [NIS2 / DORA Compliance Check](docs/NIS2ComplianceCheck.md)
 
 ## Highlights
 - **Conditional Access Export Tool** → Export & document all CA policies  
