@@ -8,7 +8,7 @@ This repository is focused on **practical automation** to make identity and acce
 - [Global Admin Audit](docs/GlobalAdmins.md)
 - [Conditional Access Export](docs/ConditionalAccessExport.md)
 - [Intune ESP / Autopilot Log Collector](docs/IntuneESPCollector.md)
-- [NIS2 / DORA Compliance Check](docs/NIS2ComplianceCheck.md)
+- [NIS2 / DORA Compliance Check](docs/NIS2Compliance.md)
 
 ## Highlights
 - **Conditional Access Export Tool** → Export & document all CA policies  
