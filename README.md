@@ -29,7 +29,7 @@ cd identity-automation/scripts
 ## Goal
 Provide IT architects and security professionals with ready-to-use automation that saves time and improves compliance.  
 
-### 4️⃣ Neue Sektion „Roadmap“ (damit du auch in Zukunft Commits hast 😎)
+### 4️⃣ Neue Sektion „Roadmap“
 ```markdown
 ## Roadmap
 - [ ] Add NIS2 / DORA deep compliance version (JSON export)
