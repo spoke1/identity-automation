@@ -1,8 +1,18 @@
-# identity-automation
-Automation scripts and tools for Microsoft Entra ID, Intune and Zero Trust.
+# Identity Automation 🚀
 
-Welcome to **Identity Automation** – a curated collection of scripts and tools for Microsoft Cloud Services.  
-This repository is focused on **practical automation** to make identity and access management easier, more secure and audit-ready.  
+PowerShell automation for Microsoft Entra ID, Intune and Zero Trust.
+Practical scripts that simplify identity governance, strengthen security and improve compliance.
+
+> 💡 Focused on practical, production-ready automation for cloud identity and access.
+> Includes Entra ID audits, Conditional Access exports, Intune log collection and compliance readiness checks.
+
+## Getting Started
+
+Clone the repository:
+```powershell
+git clone https://github.com/spoke1/identity-automation.git
+cd identity-automation/scripts
+```
 
 ## Documentation
 - [Global Admin Audit](docs/GlobalAdmins.md)
@@ -19,9 +29,21 @@ This repository is focused on **practical automation** to make identity and acce
 ## Goal
 Provide IT architects and security professionals with ready-to-use automation that saves time and improves compliance.  
 
-## More
-- Blog: [Access Insights](https://access-insights.de)  
-- Author: Ramón Lotz (@Access Insights)  
+### 4️⃣ Neue Sektion „Roadmap“ (damit du auch in Zukunft Commits hast 😎)
+```markdown
+## Roadmap
+- [ ] Add NIS2 / DORA deep compliance version (JSON export)
+- [ ] Integrate Intune device compliance reporting
+- [ ] Add Entra ID role activity tracking (audit history)
+- [ ] Publish example automation scenarios in docs/
+```
+
+---
+
+📘 **More**
+- Blog: [Access Insights](https://access-insights.com)
+- Author: Ramón Lotz ([@Access Insights](https://linkedin.com/in/ramonlotz))
+- Related Project: [Zero Trust IaC](https://github.com/spoke1/zero-trust-iac)
 
 ---
 
